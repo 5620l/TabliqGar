@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 cd $HOME/TabLiqGar
-token="" #Token Your Bot api
+token="201708277:AAG7MDwyMsnfJslTJzr49hOYa36bDu9EYZI" #Token Your Bot api
 function print_logo() {
 	echo -e "\033[38;5;600m"
 	echo -e "          CerNer Team"
